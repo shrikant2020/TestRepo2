@@ -11,6 +11,8 @@ public class Prog1 {
 		// TODO Auto-generated method stub
 		//2017-07-18T11:58:57.000+0000
 		//SimpleDateFormat("yyyy-MM-dd HH:mm:ss.SSS")
+		//test Sentence
+		//test Sentence2
 		long d = System.currentTimeMillis();
 		Date date = new Date(d);
 		System.out.println("1 "+date);
