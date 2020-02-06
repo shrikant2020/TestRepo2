@@ -13,7 +13,6 @@ public class Prog1 {
 		//SimpleDateFormat("yyyy-MM-dd HH:mm:ss.SSS")
 		//test Sentence
 		//test Sentence2
-		//test Sentence3 on Github
 		long d = System.currentTimeMillis();
 		Date date = new Date(d);
 		System.out.println("1 "+date);
