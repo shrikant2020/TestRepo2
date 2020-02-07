@@ -26,6 +26,7 @@ public class Prog1 {
 		now  = now.plusMonths(2);
 		System.out.println("6- "+now);
 		//now.plusMonths(months)
+		//dummy statement 
 		
 		/*
 		 * date = new Date(Calendar.getInstance().getTime().getTime());
