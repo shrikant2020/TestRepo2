@@ -29,7 +29,6 @@ public class Prog1 {
 		//dummy statement 
 		//dummy statement2 
 		//dummy statement3
-		//dummy statement4
 		
 		/*
 		 * date = new Date(Calendar.getInstance().getTime().getTime());
